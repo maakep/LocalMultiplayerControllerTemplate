@@ -3,7 +3,7 @@ Template setting up a local multiplayer ~4 player xbox controller couch game wit
 
 
 ## XInputTestCS
-Example for using XInput
+Example for using XInput, from https://github.com/speps/XInputDotNet
 
     bool playerIndexSet = false;
     PlayerIndex playerIndex;
